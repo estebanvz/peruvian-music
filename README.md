@@ -20,12 +20,12 @@
 </h3>
 
   <p align="center">
-    Published on Medium: 
+    Published on Medium
     <br />
     <!-- <a href="https://github.com/estebanvz/peruvian-music"><strong>Explore the docs »</strong></a>
     <br /> -->
     <br />
-    <a href="#">View Article</a>
+    <a href="https://medium.com/@esteban.wilfredo.g/music-composition-with-neural-networks-and-transformers-12dac4c57621">View Medium</a>
     ·
     <a href="https://github.com/estebanvz/peruvian-music/issues">Report Bug</a>
     ·
