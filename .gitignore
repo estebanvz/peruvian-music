@@ -1,0 +1,8 @@
+__pycache__
+data/
+logs/
+musicas_generadas/
+raw.githubusercontent.com/
+run/
+test/
+models_saved/
